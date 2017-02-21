@@ -3,7 +3,7 @@ Dockerfile to build an anaconda3 + jupyter_dashboards
 
 # Docker Anaconda3
 Created by refactoring the official [docker-anaconda3](https://hub.docker.com/r/continuumio/anaconda3/).
-Docker container with a bootstrapped installation of Anaconda (based on Python 3.6) that is ready to use.
+Docker container with a bootstrapped installation of Anaconda (based on Python 3.5.2) that is ready to use.
 
 The Anaconda distribution is installed into the `/opt/conda` folder and ensures that the default user has the `conda` command in their path.
 

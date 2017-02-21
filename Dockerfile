@@ -44,7 +44,7 @@ ENV PATH /opt/conda/bin:$PATH
 
 VOLUME ["/opt/notebooks"]
 
-WORKDIR /opt/notebooks
+#WORKDIR /opt/notebooks
 
 EXPOSE 8888
 
